@@ -1,3 +1,5 @@
+/amplify/auth/post-confirmation/graphql/
+
 # Logs
 logs
 *.log
